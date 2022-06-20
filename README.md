@@ -20,7 +20,7 @@
 
 ## Overview
 <div align="center">
-<img src="https://user-images.githubusercontent.com/94694810/174509026-161a5625-0f12-4299-8832-5a8982a14c63.png">
+<img src="https://user-images.githubusercontent.com/94694810/174655722-1e859eb9-5ff9-4350-b874-57d9e107c69e.png">
 </div>
 
 
